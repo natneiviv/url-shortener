@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://vivien:vivien1@cluster0-yjteq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseURL": "http://localhost:5000"
+}
